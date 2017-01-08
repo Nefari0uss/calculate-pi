@@ -1,0 +1,9 @@
+notifications:
+  email: false
+language: java
+script:
+    make
+before_deploy:
+    test $TRAVIS_TEST_RESULT = 0
+after_deploy:
+    make clean
