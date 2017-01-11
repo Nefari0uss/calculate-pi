@@ -2,7 +2,7 @@
 
 ## Author: [nefari0uss](https://www.github.com/nefari0uss)
 
-![language jav](https://img.shields.io/badge/language-Java-blue.svg "Language Java")
+![language java](https://img.shields.io/badge/language-Java-blue.svg "Language Java")
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![Build Status](https://travis-ci.org/Nefari0uss/calculate-pi.svg?branch=master)](https://travis-ci.org/Nefari0uss/calculate-pi)
 
