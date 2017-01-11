@@ -1,3 +1,2 @@
 .class
-*.swp
-*.swa
+*.sw[a-z]
